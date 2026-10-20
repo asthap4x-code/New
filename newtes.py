@@ -16,7 +16,7 @@ from telegram.ext import (
 # STM PRO BOT - RANDOM TEST
 # ==============================
 
-BOT_TOKEN = os.getenv("TG_BOT_TOKEN", "8994179085:AAFO4KWMe4hW7j4ey8WKwTh-7PuTVPflR6E")
+BOT_TOKEN = os.getenv("TG_BOT_TOKEN", "")
 
 SIGNAL_INTERVAL = 10       # সিগন্যালের পর ১০ সেকেন্ড অপেক্ষা
 RESULT_DELAY = 15          # রেজাল্টের আগে ১৫ সেকেন্ড অপেক্ষা
